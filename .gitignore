@@ -1,0 +1,6 @@
+# hidden TF files
+/.terraform
+
+# state
+terraform.tfstate
+terraform.tfstate.backup
